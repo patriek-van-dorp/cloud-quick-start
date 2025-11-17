@@ -1,0 +1,6 @@
+[submodule "cloud-quick-start-apps"]
+	path = cloud-quick-start-apps
+	url = https://github.com/patriek-van-dorp/cloud-quick-start-apps.git
+[submodule "cloud-quick-start-infra"]
+	path = cloud-quick-start-infra
+	url = https://github.com/patriek-van-dorp/cloud-quick-start-infra.git
